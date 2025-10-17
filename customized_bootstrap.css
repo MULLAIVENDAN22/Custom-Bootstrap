@@ -854,6 +854,10 @@
     display: none !important;
   }
 
+  .d-flex{
+    display: flex !important;
+  }
+
   /* 📦 Display Flex */
   .d-vs-flex {
     display: flex !important;
@@ -1957,6 +1961,11 @@
   .text-sm-justify {
     text-align: justify !important;
   }
+
+   .d-flex{
+    display: flex !important;
+  }
+
   /* 📦 Display Flex */
   .d-sm-flex {
     display: flex !important;
@@ -3106,6 +3115,10 @@
     text-align: justify !important;
   }
 
+   .d-flex{
+    display: flex !important;
+  }
+
   /* 📦 Display Flex */
   .d-md-flex {
     display: flex !important;
@@ -4220,6 +4233,10 @@
   }
   .text-lg-justify {
     text-align: justify !important;
+  }
+
+   .d-flex{
+    display: flex !important;
   }
 
   /* 📦 Display Flex */
