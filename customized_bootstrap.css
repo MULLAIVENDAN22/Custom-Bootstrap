@@ -837,6 +837,18 @@
   .transform-vs-bottom-right {
     transform: none;
   }
+  .text-vs-center{
+    text-align: center !important;
+  }
+  .text-vs-start{
+    text-align: start !important;
+  }
+  .text-vs-end{
+    text-align: end !important;
+  }
+  .text-vs-justify{
+    text-align: justify !important;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 767.9px) {
@@ -1638,6 +1650,19 @@
   .d-sm-none{
     display: none !important;
   }
+
+   .text-sm-center{
+    text-align: center !important;
+  }
+  .text-sm-start{
+    text-align: start !important;
+  }
+  .text-sm-end{
+    text-align: end !important;
+  }
+  .text-sm-justify{
+    text-align: justify !important;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991.9px) {
@@ -2430,6 +2455,19 @@
   .d-md-none{
     display: none !important;
   }
+
+   .text-md-center{
+    text-align: center !important;
+  }
+  .text-md-start{
+    text-align: start !important;
+  }
+  .text-md-end{
+    text-align: end !important;
+  }
+  .text-md-justify{
+    text-align: justify !important;
+  }
 }
 
 @media (min-width: 992px) {
@@ -3181,4 +3219,18 @@
   .d-lg-none{
     display: none !important;
   }
+
+ .text-lg-center{
+    text-align: center !important;
+  }
+  .text-lg-start{
+    text-align: start !important;
+  }
+  .text-lg-end{
+    text-align: end !important;
+  }
+  .text-lg-justify{
+    text-align: justify !important;
+  }
+
 }
