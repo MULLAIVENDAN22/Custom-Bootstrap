@@ -3127,6 +3127,12 @@
   .text-md-white-50 {
     color: rgba(255, 255, 255, 0.5) !important;
   }
+  .w-md-100vw {
+    width: 100vw !important;
+  }
+  .h-md-100vh {
+    height: 100vh !important;
+  }
 }
 
 @media (min-width: 992px) {
@@ -4144,5 +4150,11 @@
   }
   .text-lg-white-50 {
     color: rgba(255, 255, 255, 0.5) !important;
+  }
+  .w-lg-100vw {
+    width: 100vw !important;
+  }
+  .h-lg-100vh {
+    height: 100vh !important;
   }
 }
